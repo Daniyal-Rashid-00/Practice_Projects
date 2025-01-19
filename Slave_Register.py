@@ -17,11 +17,11 @@ while True:
     type = input()
     print("\nOK " + name + " ,You wrote " + type + " ,so you have been Registered as a " + type + " Permanent Slave.")
 
-    # Slave Power
+    # Slave Properties
     age = input("Enter Your Age...Slave!\n")
-    Brain = input("Do you have a brain...Slave!!!\n")
-    strong = input("Are you Strong?...Slave!!!!\n")
-    print("\nOK, " + name + ", you wrote your age is " + age + ", and specially you wrote you have " + Brain + " Brains and you have: " + strong + " Strength, Hmm... \nYou are probably a big dum Dum and Weak Slave!!! But Don't worry, You will do.")
+    Brain = input("OK, Do you have a brain...Slave???\n")
+    strong = input("OK, Are you Strong?...Slave???\n")
+    print("\nOK, " + name + ", you wrote your age is " + age + ", and specially you wrote you have " + Brain + " Brains and you have: " + strong + " Strength, Hmm... \nYou are probably a big DUM DUM and Weak Slave!!! But Don't worry, You will do.")
 
     # Slave Salary:
     salary = 50
